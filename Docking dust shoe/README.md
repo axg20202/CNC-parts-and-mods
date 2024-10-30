@@ -27,6 +27,7 @@ For the main dust shoe body, minimal supports are needed around the clamp area o
 1 x 6x3mm round N52 magnet (for the dock)
 M5 nut and bolt (for the clamp)
 1 x large extra long zip tie (to secure spindle brace and main body to spindle) - or join multiple zip ties as required.
+4 x wood screws (to secure dock to spoilboard)
 ```
 
 
