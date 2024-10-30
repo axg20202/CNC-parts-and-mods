@@ -36,6 +36,8 @@ HARDWARE
 M5 nut and bolt (for the clamp)
 1 x large extra long zip tie (to secure spindle brace and main body to spindle) - or join multiple zip ties as required.
 4 x wood screws (to secure dock to spoilboard)
+Dust shoe bristles, cut to length - the widely available fabric-mounted stuff works well. 
+Glue (to attach bristles)
 ```
 
 
