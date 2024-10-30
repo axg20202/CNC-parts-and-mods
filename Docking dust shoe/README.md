@@ -22,4 +22,3 @@ M5 nut and bolt
 ### Pictures
 
 <img src="Images/1.jpg"  width="49%"/>
-<img src="Images/2.jpg"  width="49%"/>
