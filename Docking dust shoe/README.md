@@ -34,7 +34,7 @@ M5 nut and bolt (for the clamp)
 ### RIght-side version
 <img src="Images/1.jpg"  width="49%"/>
 
-### Overhead view
+### Overhead view (Z cutout version)
 <img src="Images/2.jpg"  width="49%"/>
 
 
