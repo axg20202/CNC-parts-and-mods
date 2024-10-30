@@ -15,15 +15,17 @@ Refer to the RapidChange ATC Discord for post-processing files that use this doc
 
 ### PRINTING
 
-Best printed in ABS with 40% infill. Print parts in same orientation as provided STL files. When slicing the main body and dockable brush holder, insert a pause/colour change after the last layer of the internal magnet pockets to allow you to add the magnets during print. Pay close attention to magnet orientation.
-For the main dust shoe body, minimal supports are needed around the clamp area only. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. 
+Best printed in ABS with 40% infill. Print parts in same orientation as provided STL files. When slicing the main body, dockable brush holder, and the dock, insert a pause/colour change after the last layer of the internal magnet pockets to allow you to add the magnets during print. 12mm magnets are inserted in the main body and dockable brush holder. A single 6mm magnet is inserted in the dock. Pay close attention to magnet orientation.
+
+For the main dust shoe body, minimal supports are needed around the clamp area only, where the clamp has a very small gap between it and the base. The rest of the main body prints without supports. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. 
 
 ### BOM
 
 ```
 14 x 12x2mm round N52 magnets (or 12 pieces if using the Z cutout version)
-M5 nut and bolt
-1 x large extra long zip tie to secure spindle clamp and main body to spindle)
+1 x 6x3mm round N52 magnet (for the dock)
+M5 nut and bolt (for the clamp_
+1 x large extra long zip tie (to secure spindle clamp and main body to spindle)
 ```
 
 
