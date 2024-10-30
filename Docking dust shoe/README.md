@@ -1,6 +1,8 @@
 # Docking CNC dust shoe for 80mm diameter spindles. Designed for use with the RapidChange ATC tool changer.
 [axg20202]
 
+### DESCRIPTION
+
 This is a side-mount design intended to work with the typical style cast aluminium 80mm spindle clamp. Dust hose opening is set at 36mm - adjust in CAD if you require a different sized opening.
 
 Clearance of the main body and the spindle clamp is tight, so you should defintely check the CAD in your setup to ensure the design will work - this is a large print.
@@ -9,9 +11,10 @@ There are Left mount and Right mount versions. There is also an alternative vers
 
 Refer to the RapidChange ATC Discord for post-processing files that use this docking dust shoe as part of tool change routines.
 
-### Printing
+### PRINTING
 
-Best printed in ABS with 40% infill. Print parts in same orientation as provided STL files. For the main dust shoe body, minimal supports are needed around the clamp area only. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. 
+Best printed in ABS with 40% infill. Print parts in same orientation as provided STL files. When slicing the main body and dockable brush holder, insert a pause/colour change after the last layer of the internal magnet pockets to allow you to add the magnets during print. Pay close attention to magnet orientation.
+For the main dust shoe body, minimal supports are needed around the clamp area only. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. 
 
 ### BOM
 
@@ -27,5 +30,6 @@ M5 nut and bolt
 
 
 
+### THANKS
 
 Thanks to Cheesy_popcorn on the RapidChange ATC Discord group for creating the original design from which this is derived.
