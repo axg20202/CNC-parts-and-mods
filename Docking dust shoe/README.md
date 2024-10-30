@@ -5,12 +5,13 @@ This is a side-mount design intended to work with the typical style cast alumini
 
 Clearance of the main body and the spindle clamp is tight, so you should defintely check the CAD in your setup to ensure the design will work - this is a large print.
 
-Print parts in same orientation as provided STL files. Minimal supports are needed around the clamp area only. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. Best printed in ABS with 40% infill.
-
 There are Left mount and Right mount versions. There is also an alternative version of each with a cutout in the side that faces the Z axis to avoid it contacting the Z ball screw. Check the design of your own machine to establish clearance. If clearance is no issue, it's obviously better to print the standard version of parts that uses all 14 magnets with no Z cutout.
 
-
 Refer to the RapidChange ATC Discord for post-processing files that use this docking dust shoe as part of tool change routines.
+
+### Printing
+
+Best printed in ABS with 40% infill. Print parts in same orientation as provided STL files. For the main dust shoe body, minimal supports are needed around the clamp area only. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. 
 
 ### BOM
 
