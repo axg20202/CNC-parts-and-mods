@@ -8,7 +8,7 @@ Clearance of the main body and the spindle clamp is tight, so you should definte
 
 There are Left mount and Right mount versions. There is also an alternative version of each with a Z cutout (one of the magnet tabs removed) on the side that faces the Z axis to avoid it contacting the Z ball screw. Check the design of your own machine to establish clearance. If clearance is no issue, it's obviously better to print the standard version of parts that uses all 20 magnets with no Z cutout.
 
-The brush ring requires you to glue in some suitable dust shoe brush material. This threaded ring screws onto the dockable brush body.
+The bristle ring requires you to glue in some suitable dust shoe brush material. This threaded ring screws onto the dockable brush body.
 
 Refer to the RapidChange ATC Discord for post-processing files that use this docking dust shoe as part of tool change routines.
 
@@ -18,11 +18,19 @@ Best printed in ABS with 40% infill. Prints fine with 0.4 or 0.6 nozzle (0.6 rec
 
 Print parts in same orientation as provided STL files. When slicing the main body, dockable brush holder, and the dock, insert a pause/colour change after the last layer of the internal magnet pockets to allow you to add the magnets during print. 12mm magnets are inserted in the main body and dockable brush holder. A single 6mm magnet is inserted in the dock. Pay close attention to magnet orientation.
 
-For the main dust shoe body, minimal supports are needed around the clamp area only. The rest of the main body prints without supports. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. 
+For the main dust shoe body, minimal supports are needed around the clamp area only. The rest of the main body prints without supports. The dockable brush holder will need to be printed with supports. No supports needed for the dock, bristle ring or spindle brace. 
 
 ### BOM
 
 ```
+PRINTED PARTS
+1 x main body
+1 x dockable brush holder
+1 x bristle ring
+1 x spindle brace
+1 x dock
+
+HARDWARE
 20 x 12x2mm round N52 magnets (or 18 pieces if using the Z cutout version)
 1 x 6x3mm round N52 magnet (for the dock)
 M5 nut and bolt (for the clamp)
