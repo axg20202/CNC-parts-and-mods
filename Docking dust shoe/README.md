@@ -26,8 +26,8 @@ For the main dust shoe body, minimal supports are needed around the clamp area o
 ```
 20 x 12x2mm round N52 magnets (or 18 pieces if using the Z cutout version)
 1 x 6x3mm round N52 magnet (for the dock)
-M5 nut and bolt (for the clamp_
-1 x large extra long zip tie (to secure spindle clamp and main body to spindle)
+M5 nut and bolt (for the clamp)
+1 x large extra long zip tie (to secure spindle clamp and main body to spindle) - could also join multiple zip ties together to get the required length.
 ```
 
 
