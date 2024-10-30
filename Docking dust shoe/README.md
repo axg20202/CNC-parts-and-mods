@@ -15,7 +15,7 @@ Refer to the RapidChange ATC Discord for post-processing files that use this doc
 
 ### PRINTING
 
-Best printed in ABS with 40% infill. Prints fine with 0.4 or 0.6 nozzle. 
+Best printed in ABS with 40% infill. Prints fine with 0.4 or 0.6 nozzle (0.6 recommended). 
 
 Print parts in same orientation as provided STL files. When slicing the main body, dockable brush holder, and the dock, insert a pause/colour change after the last layer of the internal magnet pockets to allow you to add the magnets during print. 12mm magnets are inserted in the main body and dockable brush holder. A single 6mm magnet is inserted in the dock. Pay close attention to magnet orientation.
 
