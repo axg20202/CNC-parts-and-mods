@@ -7,18 +7,24 @@ Clearance of the main body and the spindle clamp is tight, so you should definte
 
 Print parts in same orientation as provided STL files. Minimal supports are needed around the clamp area only. The dockable brush holder will need to be printed with supports. No supports needed for the dock, brush ring or spindle brace. Best printed in ABS with 40% infill.
 
-Thanks to Cheesy_popcorn on the RapidChange ATC Discord group for creating the original design from which this is derived.
+There are Left mount and Right mount versions. There is also an alternative version of each with a cutout in the side that faces the Z axis to avoid it contacting the Z ball screw. Check the design of your own machine to establish clearance. If clearance is no issue, it's obviously better to print the standard version of parts that uses all 14 magnets with no Z cutout.
+
 
 Refer to the RapidChange ATC Discord for post-processing files that use this docking dust shoe as part of tool change routines.
 
 ### BOM
 
 ```
-14 x 12x2mm round N52 magnets (or 12 pieces if using the Z cutout version_
+14 x 12x2mm round N52 magnets (or 12 pieces if using the Z cutout version)
 M5 nut and bolt
 1 x large extra long zip tie to secure spindle clamp and main body to spindle)
 ```
 
-### Pictures
+
 
 <img src="Images/1.jpg"  width="49%"/>
+
+
+
+
+Thanks to Cheesy_popcorn on the RapidChange ATC Discord group for creating the original design from which this is derived.
