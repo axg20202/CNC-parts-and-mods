@@ -1,5 +1,4 @@
 # Docking CNC dust shoe for 80mm diameter spindles. Designed for use with the RapidChange ATC tool changer.
-[axg20202]
 
 ### DESCRIPTION
 
