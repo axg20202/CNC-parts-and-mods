@@ -43,6 +43,7 @@ Glue (to attach bristles)
 
 ### RIght-side version
 <img src="Images/1.jpg"  width="49%"/>
+<img src="Images/3.jpg"  width="49%"/>
 
 ### Overhead view (Z cutout version - shows removed magnet tab)
 <img src="Images/2.jpg"  width="49%"/>
