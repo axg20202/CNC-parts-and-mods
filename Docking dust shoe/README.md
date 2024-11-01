@@ -8,7 +8,7 @@ Clearance of the main body and the spindle clamp is tight, so you should definte
 
 There are Left mount and Right mount versions. There is also an alternative version of each with a Z cutout (one of the magnet tabs removed) on the side that faces the Z axis to avoid it contacting the Z ball screw. Check the design of your own machine to establish clearance. If clearance is no issue, it's obviously better to print the standard version of parts that uses all 20 magnets with no Z cutout. My machine is a PRINTNC that has a bearing as a physical limit circlipped to the end of the Z ball screw - hence, removal of the offending magnet tab. 
 
-The bristle ring requires you to glue in some suitable dust shoe brush material. This threaded ring screws onto the dockable brush body.
+The bristle ring requires you to glue in some suitable dust shoe brush material. This threaded ring screws onto the dockable brush mount.
 
 Refer to the RapidChange ATC Discord for post-processing files that use this docking dust shoe as part of tool change routines.
 
