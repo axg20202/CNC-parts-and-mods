@@ -6,7 +6,7 @@ This is a side-mount design intended to work with the typical style cast alumini
 
 Clearance of the main body and the spindle clamp is tight, so you should defintely check the CAD in your setup to ensure the design will work - this is a large print.
 
-There are Left mount and Right mount versions. There is also an alternative version of each with a Z cutout (one of the magnet tabs removed) on the side that faces the Z axis to avoid it contacting the Z ball screw. Check the design of your own machine to establish clearance. If clearance is no issue, it's obviously better to print the standard version of parts that uses all 20 magnets with no Z cutout.
+There are Left mount and Right mount versions. There is also an alternative version of each with a Z cutout (one of the magnet tabs removed) on the side that faces the Z axis to avoid it contacting the Z ball screw. Check the design of your own machine to establish clearance. If clearance is no issue, it's obviously better to print the standard version of parts that uses all 20 magnets with no Z cutout. My machine is a PRINTNC that has a bearing as a physical limit circlipped to the end of the Z ball screw - hence, removal of the offending magnet tab. 
 
 The bristle ring requires you to glue in some suitable dust shoe brush material. This threaded ring screws onto the dockable brush body.
 
